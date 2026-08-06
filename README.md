@@ -16,7 +16,7 @@ An AI-powered career guidance app built with Streamlit and Gemini AI.
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
 2. Add your `OPENROUTER_API_KEY` in '.env' file
-3. Run: `streamlit run app.py`
+3. Run: `python -m streamlit run app.py`
 
 ## Author
 @asmasiddiqua789-dev
